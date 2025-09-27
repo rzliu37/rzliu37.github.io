@@ -13,47 +13,49 @@ redirect_from:
 
 Education
 ======
-* B.A. in Archaeology, Jilin University, China, 2016
-* M.A. in Archaeology, Renmin University of China, 2019
-* M.S. in Evolutionary Anthropology, University of New Mexico, 2022
-* Ph.D in Evolutioanry Anthropology, University of New Mexico, 2024 (expected)
+* **Ph.D in Evolutioanry Anthropology**, University of New Mexico, 2025
+* **M.S. in Evolutionary Anthropology**, University of New Mexico, 2022
+* **M.A. in Archaeology**, Renmin University of China, 2019
+* **B.A. in Archaeology**, Jilin University, China, 2016
 
-
-Service & Appointment 
+  
+Appointment & Service
 ======
-* Graduate Student Representative (2022-2024), UNM IRB board
-* NSF CAMP fellow (2022) [CAMP link](https://methods4all.org/camp-fellows/) 
-* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
-* Co-reviewer for Proceedings of The Royal Society B (2021)
-* Reviewer for Human Nature (2020)
+* **Postdoctoral Associate** (NSF-funded), 2025, Department of Linguistics, University of Florida, Gainesville, FL
 
+* **Adjunct Assistant Professor** (LAT), 2025, Department of Anthropology, University of New Mexico, Albuquerque, NM.
+  
+* **AAAS Superhero**, 2025, American Association for the Advancement of Science 
+
+* **IRB reviewer** (2022-current), UNM IRB board
 
 
 Skills
 ======
-* Data collection, fieldwork experience since undergraduate
+* **Data collection** (via fieldwork and lab since 2012)
   * Archaeology excavation
   * Ethnology surveys
   * In-person and phone call interview
   * Data curation
   * Lab management, including artifacts record, storage and analysis
-* Data analysis 
+    
+* **Data analysis** 
   * Statistical analysis
   * Social Network analysis
   * Agent-based modeling 
-* Lithic analysis and experiments design
-* Research design
+* **Lithic analysis and experiments design**
+* **Research design**
 
 
 Work experience
 ======
-* Sring 2021: Research Assistant
-  * University of New Mexico
-  * Duties included: Data curation. data analysis
+* 2024 - 2025: Freelance AI trainer 
+  * Duties included: Teach and train AI to responde accurately. Provide human feedback
 
-* Fall 2019 - now: Graduate Assistant
+* 2019 - 2025: Graduate Assistant
   * University of New Mexico
-  * Duties included: Grading, learn system arrangement, lab, office hour
+  * Duties included: Teaching, grading, learn system arrangement, lab, office hour;
+                     Research, data curation. data analysis
 
 
 
