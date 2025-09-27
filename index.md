@@ -4,25 +4,29 @@ Ruizhe Liu (she/her)
 
 - /ʒʊeɪ-dʒɜ:/
 
-
--  or Rachel (similar pronouciation as my Chinese name)
-
+-  Aka Rui (Ray) or Rachel 
 
 -  My blog: [Culture Explorer RZ](https://cultureexplorerrz.blogspot.com/) check my fieldwork updates via my blog or "Blog posts" here
 
 ## About
 
-- I am a PhD candidate (4th year) in evolutionary anthropology, University of New Mexico.
+- I am currently a postdoc associate of linguistics department at University of Florida and adjunct assistant professor (LAC) of anthropology department at University of New Mexico.
 
-- As an anthropologist, I am interested in human cooperation pattern and their social structure. My current project focuses on the individual's social networks and the function of kinship under market integration. I explore this question by using theories grounded in evolutionary theory, such as Human Behavioral Ecology (HBE) and Cultural evolution theory (CET). My project involves qualitative and quantitive analysis, especially social network analysis (SNA).
+- As a **biological anthropologist**, I use mixed methods, modeling, social network science and evolutionary perspective to explore human behavior and health in the past and the contemporary world. I am interested in human cooperation pattern and their social structure. My current project focuses on the individual's social networks and the function of kinship under market integration.  
 
-- As an archaeologiest, I am interested in the human behaviors and technology in prehistory world. I focus on their adaptive strategies via ethnography, lithic analysis and experiments.
+- As an **interdisplinary scientist**, I explore how human connections, behavior, and cognition interact with each other. 
 
-- HBE ; SNA ; Kinship ; Cooperation & Social Structure ; Lithic Analysis ; Prehistory Archaeology 
+## Research Keywords
+
+- Behavioral Ecology ; Network ; Cooperation ; Health;
+  
+- Language ; Neuroscience ; Cognition ;
+  
+- Human Evolution; Prehistory Archaeology; Material Culture (e.g., lithic analysis)
 
 ## Education
 
-2019-now  PhD program, Anthropology, University of New Mexico, U.S.
+2019-2025 Ph.D, Anthropology, University of New Mexico, U.S.
 
 2019-2022 M.S., Anthropology, University of New Mexico, U.S.
 
