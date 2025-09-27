@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruizhe Liu / 刘睿喆"
 title_separator          : "-"
-name                     : &name "Ruizhe (Rachel) Liu"
+name                     : &name "Ruizhe (Rui/Rachel) Liu"
 description              : &description "Interdisplinary Scientist"
 url                      : https://rzliu37.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruizhe (Ray) Liu"
+  name             : "Ruizhe Liu (aka Rui/Rachel) "
   avatar           : "RZLUF.jpg"
   bio              : "Postdoc Associate, UF"
   location         : "Gainesville, FL"
